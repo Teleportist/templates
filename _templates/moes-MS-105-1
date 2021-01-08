@@ -2,7 +2,8 @@
 date_added: 2019-12-29
 title: Moes MS-105-1 v2
 link: https://www.aliexpress.com/item/4000436821697.html
-link2: https://www.amazon.de/gp/product/B083SCY56D
+link2: https://www.aliexpress.com/item/4000905450843.html
+link3: https://www.amazon.de/gp/product/B083SCY56D
 image: /assets/images/moes-MS-105-1.jpg
 template: '{"NAME":"MS-105","GPIO":[0,107,0,108,0,0,0,0,0,0,0,0,0],"FLAG":0,"BASE":54}' 
 link2: 
@@ -11,6 +12,8 @@ flash: tuya-convert
 category: relay
 type: Dimmer
 standard: global
+---
+Flashed with Tuya-convert OTA 8th January 2021 (purchased via second AliExpress link)
 ---
 After applying the template, enable dimmer functionality using console command:
 ```console
